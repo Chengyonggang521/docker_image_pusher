@@ -7,4 +7,5 @@
 #whyour/qinglong
 #mysql:8.4.0
 #node:20.14
-portainer/portainer:1.25.0
+#portainer/portainer:1.25.0
+python:3.12.3
